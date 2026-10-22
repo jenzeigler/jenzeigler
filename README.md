@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jen 👋
 
-<!--
-**jenzeigler/jenzeigler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Happiness Engineer at Automattic, where I help WordPress.com customers figure out what's going on with their sites and get them working again.
 
-Here are some ideas to get you started:
+The technical side is my strength. I like digging in until I find what's actually wrong, whether that's a DNS record, an SSL issue, a WooCommerce or plugin conflict, or a PHP error. When a site is down, I'm comfortable working from the command line with WP-CLI to get it back up. I balance that with empathy, because a fix only really lands when the person on the other end understands what happened.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before WordPress, I spent seven years as a Tier 2 Senior Technical Advisor at Apple and a long time doing systems integration work.
+
+## What I work on
+
+* WordPress and WooCommerce troubleshooting
+* WP-CLI and command line site repair
+* DNS, SSL, and email deliverability
+* Business tool integrations (CRMs, payments, scheduling, automation)
+* Support documentation and troubleshooting guides
+
+## Toolbox
+
+* **Platforms:** WordPress, WooCommerce, Elementor
+* **Command line:** WP-CLI, SSH, Git
+* **Integrations:** Zapier, HubSpot, Salesforce, Zoho CRM, Mailchimp, Stripe, PayPal, QuickBooks Online, Xero
+* **Support:** Zendesk, Linear, knowledge base writing
+
+## Currently building
+
+Practical tools and guides for people who support WordPress sites. More coming soon.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jenzeigler)

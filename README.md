@@ -21,10 +21,11 @@ Before WordPress, I spent seven years as a Tier 2 Senior Technical Advisor at Ap
 * **Integrations:** Zapier, HubSpot, Salesforce, Zoho CRM, Mailchimp, Stripe, PayPal, QuickBooks Online, Xero
 * **Support:** Zendesk, Linear, knowledge base writing
 
-## Currently building
+## Projects
 
-Practical tools and guides for people who support WordPress sites. More coming soon.
-
+* [Email Test Tool](https://github.com/jenzeigler/email-test-tool): a WordPress plugin that tests whether your site can send email, with a live browser demo
+* [Why Isn't My WordPress Email Sending?](https://github.com/jenzeigler/wordpress-email-troubleshooting): a decision tree for fixing WordPress emails that never arrive
+  
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/jenzeigler)
